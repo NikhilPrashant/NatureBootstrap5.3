@@ -2,15 +2,6 @@ body {
     font-family: 'Helvetica Neue', sans-serif !important;
 }
 
-.carousel-inner {
-    height: 524px;
-}
-
-.carousel-caption {
-    position: absolute;
-    top: 400px;
-}
-
 .slider-image {
     height: 524px;
     width: 100%;
